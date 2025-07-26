@@ -1,0 +1,12 @@
+{
+  "Version": 1,
+  "Hash": "jzqOFcpPc8GRUw9ZSJDBFpswVTWJx5PBPXi2s5TPlw0=",
+  "Source": "TaskProjectManagementPlatform",
+  "BasePath": "_content/TaskProjectManagementPlatform",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": [],
+  "Endpoints": []
+}
